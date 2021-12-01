@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color: black;
+
+}
+header{
+    background-color: gray;
+    margin-left: 26em;
+    margin-top: 3em;
+    height: 32vh;
+    width: 20vw;
+    align-items: center;
+}
+
+
